@@ -128,3 +128,46 @@ ul.nutrition li {
     font-weight: 700;
     letter-spacing: 2px;
 }
+
+/* footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer-column {
+    width: 30%;
+}
+
+.footer-column h3 {
+    color: #fff;
+    font-size: 18px;
+}
+
+.footer-column p {
+    margin-bottom: 10px;
+}
+
+.footer-column ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-column ul li {
+    margin-bottom: 5px;
+}
+
+.footer-column ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer-column ul li a:hover {
+    text-decoration: underline;
+}
