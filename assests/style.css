@@ -2,7 +2,6 @@
 
 body {
     background-image: url("https://content.codecademy.com/courses/web-101/unit-6/htmlcss1-img_foodlogo.png");
-    /* background-color: #FFF; */
     text-align: center;
     font-family: 'Roboto', sans-serif;
     font-size: 18px;
@@ -29,7 +28,7 @@ nav span {
     font-size: 16px;
     font-weight: 100;
     letter-spacing: 2px;
-    margin: 10px 0px;
+    margin: 10px 0;
 }
 
 nav a {
@@ -52,6 +51,7 @@ nav a {
     background-position: center;
     background-size: cover;
     height: 320px;
+
 }
 
 .header h1 {
@@ -63,7 +63,7 @@ nav a {
     line-height: 40px;
     width: 68%;
     padding: 20px;
-    margin: 0px auto;
+    margin: 0 auto;
 }
 
 /* Content Body */
@@ -112,7 +112,7 @@ ul.nutrition li {
     list-style: none;
     width: 200px;
     padding: 10px 20px;
-    margin-bottom: 3px;
+    margin: 3px;
 }
 
 .nutrition .category {
