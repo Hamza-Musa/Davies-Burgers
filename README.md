@@ -1,11 +1,12 @@
 # My Awesome Project
 
-<img src="./assests/Davies.png" />
 Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
 
 **Link to project:** xxhmu54.github.io/Davies-Burgers/
 
-![alt tag](Screenshot of website)
+<!-- <img src="./assests/Davies.png" /> -->
+
+![alt tag](./assests/Davies.png)
 
 ## How It's Made:
 
