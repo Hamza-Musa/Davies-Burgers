@@ -1,4 +1,4 @@
-# My Awesome Project
+# Davies Burgers Fast Food Restaurant
 
 CSS: BOX MODEL AND LAYOUT Codecademy Project
 The Box Model: Davie's Burgers
