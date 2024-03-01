@@ -1,10 +1,10 @@
-# Davies Burgers Fast Food Restaurant
+# Davie's Burgers Fast Food Restaurant
 
 CSS: BOX MODEL AND LAYOUT Codecademy Project
 The Box Model: Davie's Burgers
 In this project, I fixed a fictional restaurant’s website. All of the HTML and most of the CSS is intact, but the box model properties have yet to be set. Using knowledge of height, width, padding, border, and margin allowed me to complete this project.
 
-**Link to project:** xxhmu54.github.io/Davies-Burgers/
+# Link to project: <a href="https://shawncharles.com/travelara" target="_blank">Visit Here</a>
 
 <!-- <img src="./assests/Davies.png" /> -->
 
