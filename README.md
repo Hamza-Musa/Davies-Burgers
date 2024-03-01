@@ -1,6 +1,6 @@
 # My Awesome Project
 
-Codecademy - LEARN CSS: BOX MODEL AND LAYOUT
+CSS: BOX MODEL AND LAYOUT Codecademy Project
 The Box Model: Davie's Burgers
 In this project, I fixed a fictional restaurant’s website. All of the HTML and most of the CSS is intact, but the box model properties have yet to be set. Using knowledge of height, width, padding, border, and margin allowed me to complete this project.
 
