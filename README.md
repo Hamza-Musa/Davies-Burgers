@@ -21,7 +21,7 @@ In this project, I covered the four properties of the box model: height and widt
 ## Optimizations
 
 - Continue refining the design
-- Added other pages
+- Adding other pages
 - More functionality
 - Interactive Nav
 
